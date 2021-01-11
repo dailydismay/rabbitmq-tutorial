@@ -6,7 +6,3 @@
 4.  [Routing](https://github.com/zabozlaev/rabbitmq-tutorial/tree/master/src/routing)
 5.  [Topics]()
 6.  [RPC]()
-
-### TODO:
-
-[] Publisher confirms
