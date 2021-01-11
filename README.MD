@@ -9,4 +9,4 @@
 
 ### TODO:
 
-[ ] Publisher confirms
+[_] Publisher confirms
